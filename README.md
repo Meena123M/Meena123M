@@ -1,7 +1,7 @@
  <h1>Hi 👋, I'm Meena</h1>
 ## 📌 Portfolio
 
-🔗 [https://meena123m.github.io/portfolio/](https://meena123m.github.io/portfolio/)
+🔗 https://meena123m.github.io/portfolio/
 
 
 
